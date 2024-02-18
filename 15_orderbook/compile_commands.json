@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/clang++",
+      "-O2",
+      "-Wall",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "main.o",
+      "main.cpp"
+    ],
+    "directory": "/Users/marcus/marcustut/highload/15_orderbook",
+    "file": "/Users/marcus/marcustut/highload/15_orderbook/main.cpp",
+    "output": "/Users/marcus/marcustut/highload/15_orderbook/main.o"
+  }
+]
